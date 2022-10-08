@@ -13,6 +13,7 @@
 		A0B5248328ECAAC8007ECEAA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0B5248228ECAAC8007ECEAA /* ContentView.swift */; };
 		A0B5248528ECAAD1007ECEAA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A0B5248428ECAAD1007ECEAA /* Assets.xcassets */; };
 		A0B5248828ECAAD1007ECEAA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A0B5248728ECAAD1007ECEAA /* Preview Assets.xcassets */; };
+		A0E8B4F028F1277400187268 /* HexagonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E8B4EF28F1277400187268 /* HexagonView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		A0B5248228ECAAC8007ECEAA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A0B5248428ECAAD1007ECEAA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A0B5248728ECAAD1007ECEAA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A0E8B4EF28F1277400187268 /* HexagonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HexagonView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				A0B5248028ECAAC8007ECEAA /* DesignCodeIOS15App.swift */,
 				A0B5248228ECAAC8007ECEAA /* ContentView.swift */,
 				A0378B0128F09E8500AC2E0E /* AccountView.swift */,
+				A0E8B4EF28F1277400187268 /* HexagonView.swift */,
 				A0378AFF28EFBCE800AC2E0E /* Styles.swift */,
 				A0B5248428ECAAD1007ECEAA /* Assets.xcassets */,
 				A0B5248628ECAAD1007ECEAA /* Preview Content */,
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A0378B0228F09E8500AC2E0E /* AccountView.swift in Sources */,
+				A0E8B4F028F1277400187268 /* HexagonView.swift in Sources */,
 				A0378B0028EFBCE800AC2E0E /* Styles.swift in Sources */,
 				A0B5248328ECAAC8007ECEAA /* ContentView.swift in Sources */,
 				A0B5248128ECAAC8007ECEAA /* DesignCodeIOS15App.swift in Sources */,
