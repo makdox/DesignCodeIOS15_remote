@@ -15,6 +15,7 @@
 		A0B5248528ECAAD1007ECEAA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A0B5248428ECAAD1007ECEAA /* Assets.xcassets */; };
 		A0B5248828ECAAD1007ECEAA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A0B5248728ECAAD1007ECEAA /* Preview Assets.xcassets */; };
 		A0D46FD728F9F7A500490A85 /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0D46FD628F9F7A500490A85 /* TabBar.swift */; };
+		A0D46FD928F9FD0B00490A85 /* Tab.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0D46FD828F9FD0B00490A85 /* Tab.swift */; };
 		A0E8B4F028F1277400187268 /* HexagonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E8B4EF28F1277400187268 /* HexagonView.swift */; };
 /* End PBXBuildFile section */
 
@@ -28,6 +29,7 @@
 		A0B5248428ECAAD1007ECEAA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A0B5248728ECAAD1007ECEAA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A0D46FD628F9F7A500490A85 /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
+		A0D46FD828F9FD0B00490A85 /* Tab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tab.swift; sourceTree = "<group>"; };
 		A0E8B4EF28F1277400187268 /* HexagonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HexagonView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -65,6 +67,7 @@
 				A0B5248228ECAAC8007ECEAA /* ContentView.swift */,
 				A0378B0128F09E8500AC2E0E /* AccountView.swift */,
 				A0D46FD628F9F7A500490A85 /* TabBar.swift */,
+				A0D46FD828F9FD0B00490A85 /* Tab.swift */,
 				A0E8B4EF28F1277400187268 /* HexagonView.swift */,
 				A070098828F215E800124C3B /* BloobView.swift */,
 				A0378AFF28EFBCE800AC2E0E /* Styles.swift */,
@@ -155,6 +158,7 @@
 				A0378B0228F09E8500AC2E0E /* AccountView.swift in Sources */,
 				A0E8B4F028F1277400187268 /* HexagonView.swift in Sources */,
 				A0378B0028EFBCE800AC2E0E /* Styles.swift in Sources */,
+				A0D46FD928F9FD0B00490A85 /* Tab.swift in Sources */,
 				A0B5248328ECAAC8007ECEAA /* ContentView.swift in Sources */,
 				A0B5248128ECAAC8007ECEAA /* DesignCodeIOS15App.swift in Sources */,
 				A070098928F215E800124C3B /* BloobView.swift in Sources */,
