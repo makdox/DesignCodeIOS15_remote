@@ -11,6 +11,7 @@
 		A0378B0228F09E8500AC2E0E /* AccountView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0378B0128F09E8500AC2E0E /* AccountView.swift */; };
 		A03CBCC528FA5FF100CADB08 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A03CBCC428FA5FF000CADB08 /* HomeView.swift */; };
 		A065CB8F28FDF93800494C27 /* PreferenceKeys.swift in Sources */ = {isa = PBXBuildFile; fileRef = A065CB8E28FDF93800494C27 /* PreferenceKeys.swift */; };
+		A065CB9128FE002800494C27 /* AnimatableFontModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = A065CB9028FE002800494C27 /* AnimatableFontModifier.swift */; };
 		A06F563F28FB714800CB0AFA /* FeaturedItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = A06F563E28FB714800CB0AFA /* FeaturedItem.swift */; };
 		A06F564128FB73F200CB0AFA /* NavigationBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = A06F564028FB73F200CB0AFA /* NavigationBar.swift */; };
 		A070098928F215E800124C3B /* BloobView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A070098828F215E800124C3B /* BloobView.swift */; };
@@ -28,6 +29,7 @@
 		A0378B0128F09E8500AC2E0E /* AccountView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountView.swift; sourceTree = "<group>"; };
 		A03CBCC428FA5FF000CADB08 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		A065CB8E28FDF93800494C27 /* PreferenceKeys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreferenceKeys.swift; sourceTree = "<group>"; };
+		A065CB9028FE002800494C27 /* AnimatableFontModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatableFontModifier.swift; sourceTree = "<group>"; };
 		A06F563E28FB714800CB0AFA /* FeaturedItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeaturedItem.swift; sourceTree = "<group>"; };
 		A06F564028FB73F200CB0AFA /* NavigationBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationBar.swift; sourceTree = "<group>"; };
 		A070098828F215E800124C3B /* BloobView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BloobView.swift; sourceTree = "<group>"; };
@@ -94,6 +96,7 @@
 			isa = PBXGroup;
 			children = (
 				A0378AFF28EFBCE800AC2E0E /* Styles.swift */,
+				A065CB9028FE002800494C27 /* AnimatableFontModifier.swift */,
 			);
 			path = Styles;
 			sourceTree = "<group>";
@@ -219,6 +222,7 @@
 				A06F563F28FB714800CB0AFA /* FeaturedItem.swift in Sources */,
 				A065CB8F28FDF93800494C27 /* PreferenceKeys.swift in Sources */,
 				A0D46FD728F9F7A500490A85 /* TabBar.swift in Sources */,
+				A065CB9128FE002800494C27 /* AnimatableFontModifier.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
