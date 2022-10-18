@@ -36,7 +36,6 @@ struct HomeView: View {
             })
             .overlay(
                 NavigationBar(title: "Featured", hasScrolled: $hasScrolled)
-                    .opacity(hasScrolled ? 1 : 0)
         )
         }
     }
@@ -69,7 +68,6 @@ struct HomeView: View {
                                 .offset(x: minX / 2)
                         )
 
-                    
 //                    Text("\(proxy.frame(in: .global).minX)")
                 }
             }
@@ -80,7 +78,6 @@ struct HomeView: View {
             Image("Blob 1")
                 .offset(x: 250, y: -100)
         )
-        
     }
 }
 
